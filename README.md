@@ -30,7 +30,7 @@ I'm André Dias a Junior Developer. I Spend most of time coding outstanding proj
 
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV]()
 - :email: andremssdias@hotmail.com
 
 
