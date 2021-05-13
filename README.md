@@ -52,7 +52,7 @@ I'm André Dias a Junior Developer. I spend most of time coding projects or teac
     	Get to know me more
     </summary>
 
-I enjoy a lot learning new ways to program so I can progress more as a software developer, my main weak point is that I want to know everything as quick as possible. Usually I tend to make small projects to always test my new skills.
+I enjoy a lot learning new ways to program so I can progress more as a software developer. Usually I tend to make small projects to always test my new skills.
 
 Teaching made me evolve much more as a developer and learn very well the foundations of programming.
 
