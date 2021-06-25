@@ -11,10 +11,10 @@ I'm André Dias a Junior Developer. I spend most of time coding projects or teac
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently teaching **Python** and **JavaScript**
+- 🔭 I’m currently working with **Django** and **Django Rest Framework**
 - :computer: Most used line of code `print()`
 - 🤔 I’m looking for help **to become a better Software Developer**
-- 🌱 I’m currently learning **pygame**
+- 🌱 I’m currently learning **Django Rest Framework**
 - 📫 How to reach me: **andremssdias@hotmail.com**
 - 😄 Pronouns: **Dias**
 - ⚡ Fun fact: **I'm a dancer and I used to street perform**
@@ -35,6 +35,7 @@ I'm André Dias a Junior Developer. I spend most of time coding projects or teac
 [![Selenium Badge](https://img.shields.io/badge/-selenium-43B02A?style=for-the-badge&labelColor=black&logo=selenium&logoColor=white)](#) 
 [![SQlite Badge](https://img.shields.io/badge/-SQlite-003B57?style=for-the-badge&labelColor=black&logo=SQLite&logoColor=white)](#) 
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=MySQL&logoColor=white)](#) 
+[![POSTGRES Badge](https://img.shields.io/badge/-Postgres-4169E1?style=for-the-badge&labelColor=black&logo=PostgreSQL&logoColor=white)](#) 
 
 
 
