@@ -14,7 +14,7 @@ I'm André Dias a Software Developer. I spend most of time coding or teaching ho
 - 🔭 I’m currently working with **Django** and **Django Rest Framework**
 - :computer: Most used line of code `print()`
 - 🤔 I’m looking for help **to become a better Software Developer**
-- 🌱 I’m currently learning **Asynchronous development**
+- 🌱 I’m currently learning **Design patterns**
 - 📫 How to reach me: **andremssdias@hotmail.com**
 - 😄 Pronouns: **Dias**
 - ⚡ Fun fact: **I'm a dancer and I used to street perform**
